@@ -1,5 +1,4 @@
 
-//  updated js code 
 // === Quiz Data ===
 const quizData = [
   // set 1
